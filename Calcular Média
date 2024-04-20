@@ -7,7 +7,7 @@ nota4: real <- 9.0
 media: real
 
  // Calcula a média artimética das notas
-media <- 9nota1+ nota2 + nota3 + nota4) / 4.0
+media <- (nota1+ nota2 + nota3 + nota4) / 4.0
 
 //Exibe resultado da média
  Escreva"A média das notas é:", media
