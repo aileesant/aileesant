@@ -1,16 +1,23 @@
-## Hi there 👋
+## Oi! Eu sou a Aline 👋🐱💻
 
-<!--
-**aileesant/aileesant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de tecnologia e desenvolvedora em formação, com foco em **Java, Spring Boot e Python**.  
+Este GitHub é meu espaço para aprender, errar, corrigir e evoluir 🚀
 
-Here are some ideas to get you started:
+### 💡 O que você vai encontrar aqui
+- Exercícios de lógica e programação
+- Projetos acadêmicos e pessoais
+- Estudos sobre backend e orientação a objetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+- Java | Spring Boot
+- Python
+- Git & GitHub
+- SQL
+- OOP
+
+### ⭐ Projetos em destaque
+- **springboot-cliente** — prática com Spring Boot e APIs
+- **java-exercicios** — fundamentos e OOP em Java
+- **python-exercicios** — exercícios para fixação de Python
+
+📚 Em constante aprendizado e construção do meu portfólio.
