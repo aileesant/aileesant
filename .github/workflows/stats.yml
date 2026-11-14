@@ -21,6 +21,9 @@ jobs:
       - name: Create cards folder
         run: mkdir -p profile
 
+      - name: Create cards folder
+        run: mkdir -p profile
+
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
