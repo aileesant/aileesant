@@ -7,6 +7,10 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -17,9 +21,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
-
-      - name: Create cards folder
-        run: mkdir -p profile
 
       - name: Create cards folder
         run: mkdir -p profile
