@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hello! I'm Aline. Welcome to my crib.</h1>
+<h1 data-importer="text" align="center">Hello! I'm Aline.<br> Welcome to my crib. <br></h1>
 
 <h2 data-importer="text" align="center">Software Engineering student | Developer in progress</h2>
 
